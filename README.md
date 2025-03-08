@@ -1,14 +1,13 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/6edba309-42e8-4385-ba63-f55197f725ee" width="200" style="float: left; margin-right: 20px;" />
-  <div>
-    <h2>Hello, Devs!🛠️</h2>
-    <h1>Eu me chamo Cristiano Wanzeler!</h1>
-    <h2>Seja bem-vindo ao meu perfil GitHub! 👋</h3>
+<div align="">
+    <h2>Hello, Dev!🛠️</h2>
+    <h1>Me chamo Cristiano Wanzeler! </h1>
+    <h3>Seja bem-vindo ao meu perfil GitHub! 👋</h3>
   </div>
 </div>
 
----
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)  
 
+## Informações
 - 🎓 Sou graduado em Pedagogia
 - 📘 Estudei Letras/Espanhol pela UFPA
 - 📚 Atualmente estou cursando Bacharelado em Sistemas de Informação
@@ -19,7 +18,6 @@
 - 📱 Celular: (91 99216-6335)
 - ⚡ Curiosidade: Apaixonado por tecnologias
 
----
 
 ## Minhas Redes Sociais
 <div>
@@ -31,7 +29,6 @@
 <a href="https://www.linkedin.com/in/cristiano-wanzeler-276ab9b2/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Currículo_Lattes-%230076b8?style=for-the-badge&logo=read-the-docs&logoColor=white"></a> 
 </div>
 
----
 
 ## Minhas estatísticas no GitHub
 
@@ -42,7 +39,6 @@
   </a>
 </div>
 
----
 
 ## 🖥️ Estudando as seguintes Tecnologias e Ferramentas 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
