@@ -5,7 +5,7 @@
   </div>
 </div>
 
-![Snake animation](https://github.com/CristianoWanzeler/CristianoWanzeler/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/CristianoWanzeler/CristianoWanzeler/blob/output/github-contribution-grid-snake.svg)
 
 ## Informações
 - 🎓 Sou graduado em Pedagogia
@@ -26,7 +26,7 @@
 <a href="https://www.facebook.com/CristianoS.C.Wanzeler/?locale=pt_BR" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href = "mailto:cr.wanzelerg@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/cristiano-wanzeler-276ab9b2/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/cristiano-wanzeler-276ab9b2/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Currículo_Lattes-%230076b8?style=for-the-badge&logo=read-the-docs&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/cristiano-wanzeler-276ab9b2/" target="_blank"><img loading="lazy" src="http://lattes.cnpq.br/8922022112192700"></a> 
 </div>
 
 
