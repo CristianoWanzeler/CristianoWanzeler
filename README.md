@@ -5,8 +5,6 @@
   </div>
 </div>
 
-![Snake animation](https://github.com/CristianoWanzeler/CristianoWanzeler/blob/output/github-contribution-grid-snake.svg)
-
 ## Informações
 - 🎓 Sou graduado em Pedagogia
 - 📘 Estudei Letras/Espanhol pela UFPA
